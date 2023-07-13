@@ -1,7 +1,7 @@
 img = "";
 
 function preload() {
-    img = loadImage('dog_cat.jpg');
+    img = loadImage('cat_dog.png');
 }
 
 function setup() {
